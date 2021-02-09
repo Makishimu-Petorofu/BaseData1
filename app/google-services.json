@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248557961007",
+    "firebase_url": "https://basedatepetrov1-default-rtdb.firebaseio.com",
+    "project_id": "basedatepetrov1",
+    "storage_bucket": "basedatepetrov1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248557961007:android:96b88b33e0a6320a236bda",
+        "android_client_info": {
+          "package_name": "com.example.basedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248557961007-10akv8jjqmmmd03dvv3858jt34uahvip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbocxNLoadzpyh_bxn3vZXRCqfVjrwfPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248557961007-10akv8jjqmmmd03dvv3858jt34uahvip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
